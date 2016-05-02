@@ -5,6 +5,9 @@ A [vim-airline](https://github.com/vim-airline/vim-airline) theme for the [monok
 Normal mode:
 ![img](https://raw.githubusercontent.com/Yavor-Ivanov/airline-monokai-subtle.vim/master/screenshots/airline_monokai_subtle_normal_mode.png)
 
+Visual mode:
+![img](https://raw.githubusercontent.com/Yavor-Ivanov/airline-monokai-subtle.vim/master/screenshots/airline_monokai_subtle_visual_mode.png)
+
 Insert mode:
 ![img](https://raw.githubusercontent.com/Yavor-Ivanov/airline-monokai-subtle.vim/master/screenshots/airline_monokai_subtle_insert_mode.png)
 
