@@ -33,8 +33,8 @@ function! airline#themes#monokai_subtle#refresh()
   let g:airline#themes#monokai_subtle#palette.visual_modified = g:airline#themes#monokai_subtle#palette.normal_modified
 
   let s:IA1 = [ '#444444', '#1c1c1c', 237, 234 ]
-  let s:IA2 = [ '#444444', '#1c1c1c', 237, 234 ]
-  let s:IA3 = [ '#444444', '#1c1c1c', 237, 234 ]
+  let s:IA2 = s:IA1
+  let s:IA3 = s:IA1
   let g:airline#themes#monokai_subtle#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)
   let g:airline#themes#monokai_subtle#palette.inactive_modified = g:airline#themes#monokai_subtle#palette.normal_modified
 endfunction
